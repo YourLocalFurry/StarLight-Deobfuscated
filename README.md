@@ -1,2 +1,2 @@
 # Starlight
-Stellar / Zephoriah's VRChat Mod.
+Stellar / Zephoriah's VRChat Mod Deob.
